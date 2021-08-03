@@ -1,10 +1,12 @@
-import pandas as pd
-import numpy as np
+import numpy as np;
+import pandas as pd;
+import matplotlib.pylab as plt;
+import seaborn as sns;
 
 # Method chaining begins
 def load_and_process(url):
     df = (
-        data
+        pd.read_csv(url)
         .drop(columns=['Positive affect', 'Negative affect'])
         .loc[lambda x: x['year']>2015]
         .sort_values("Life Ladder", ascending=False)
@@ -13,5 +15,5 @@ def load_and_process(url):
     
     )
 
-    return df
+    return df;
 
