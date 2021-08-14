@@ -4,10 +4,9 @@
 
 # Some limitations to this dataset include the fact that the contributions of a regular donator who donated over a month ago might be neglected, hence underestimating the true value, or that of one who donates once in a while might skew the data, and subsequent result in an overestimate of the true value. However, because the these confounding variables have opposite effects, and a similar likelihood of occurring within the random sample, the results would ideally be holistically skewed, which might affect the values, but not the trend, allowing the above inference to stand regardless.
 
-# 2. How is life expectancy at birth related to life ladder scores in the countries with relatively "low" ladder scores?
 
 
-# What trends between the life ladder scores and its indicators, Social Support, and Log GDP are more evident in the bottom-half ladder score of the dataset.
+# 2. What trends between the life ladder scores and its indicators, Social Support, and Log GDP are more evident in the bottom-half ladder score of the dataset.
   
    
 # *I divided the dataset into two sections, each containing 75 countries, with the bottom-half representing those with a "Low" Life Ladder score. This translates to a dividing life ladder score of 5.563.*
