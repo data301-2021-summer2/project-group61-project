@@ -3,3 +3,15 @@
 
 
 # Some limitations to this dataset include the fact that the contributions of a regular donator who donated over a month ago might be neglected, hence underestimating the true value, or that of one who donates once in a while might skew the data, and subsequent result in an overestimate of the true value. However, because the these confounding variables have opposite effects, and a similar likelihood of occurring within the random sample, the results would ideally be holistically skewed, which might affect the values, but not the trend, allowing the above inference to stand regardless.
+
+# 2. How is life expectancy at birth related to life ladder scores in the countries with relatively "low" ladder scores?
+
+
+# What trends between the life ladder scores and its indicators, Social Support, and Log GDP are more evident in the bottom-half ladder score of the dataset.
+  
+   
+# *I divided the dataset into two sections, each containing 75 countries, with the bottom-half representing those with a "Low" Life Ladder score. This translates to a dividing life ladder score of 5.563.*
+  
+  # According to the correlation data, the top half countries have a (life ladder - Social Support), and (life ladder - Log GDP per Capita) correlation score of 0.54 and 0.61 respectively, while the bottom half countries have a (life ladder - Social Support), and (life ladder - Log GDP per Capita) correlation score of 0.5 and 0.53, respectively.This means that for some reason, the life ladder-social support and life ladder-log GDP per capita relationships are more consistent in the top half countries. 
+  
+# A possible explanation for this would be differences in culture. The wealthiest countries appear to have the highest life ladder, as seen in the correlation value of the Life ladder and log GDP per capita of the full dataset of 0.8, which implies the opposite relationship between the countries. The countries with the highest life ladder and log GDP are American and European, while those with the lowest are African and Middle-Eastern. In Islam, for exaample, which is significantly more prevalent in Africa the Middle-East than it is in Europe and America, it is mandated that every able adult donates 2.5 percent of their total wealth annually, to those less fortunate. This means that while those in the Middle-East and Africa might earn less, their cultural orientation renders them more giving, in general. This might account for why an increase in life ladder and GDP is not necessarily met with more social support, or why lower GDP and life ladder may not necessarity directly relate to lower social support.
