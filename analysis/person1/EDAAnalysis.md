@@ -6,7 +6,7 @@
 
 
 
-# 2. What trends between the life ladder scores and its indicators, Social Support, and Log GDP are more evident in the bottom-half ladder score of the dataset.
+# 2.What trends between the life ladder scores and its indicators, Social Support, and Log GDP exist in the bottom and top halves of the dataset.
   
    
 # *I divided the dataset into two sections, each containing 75 countries, with the bottom-half representing those with a "Low" Life Ladder score. This translates to a dividing life ladder score of 5.563.*
